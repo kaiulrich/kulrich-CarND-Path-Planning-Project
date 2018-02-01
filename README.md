@@ -53,7 +53,7 @@ This implementation is summarized in the following three steps
 * Behavior Planner: What should I do
 * Trajectory: How can I do it
 
-### Prediction
+###Prediction
 This part of the code deal with the telemetry and sensor fusion data. It intents to reason about the environment. In the case, we want to know three aspects of it:
 
 * Is there a car in front of us blocking the traffic.
@@ -97,6 +97,6 @@ In order to ensure more continuity on the trajectory (in addition to adding the 
 
 
 
-## Reflektion 
+## Reflection 
 
 The car speed is sometimes swinging appreciable. It would be nice to use a better speed controller for example a PID Controler.
