@@ -53,7 +53,7 @@ This implementation is summarized in the following three steps
 * Behavior Planner: What should I do
 * Trajectory: How can I do it
 
-###Prediction
+### Prediction
 This part of the code deal with the telemetry and sensor fusion data. It intents to reason about the environment. In the case, we want to know three aspects of it:
 
 * Is there a car in front of us blocking the traffic.
